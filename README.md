@@ -1,6 +1,4 @@
-Demonstration of basic CRUD Web application using: 
-
-Spring Boot 2,
+Demonstration of basic CRUD Web application using: Spring Boot 2,
 Spring Framework 5,
 Spring Data JPA,
 Spring MVC,
